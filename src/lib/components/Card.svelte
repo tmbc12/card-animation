@@ -17,7 +17,7 @@
 
   // image props
   export let img = "";
-  export let back = "https://mcusercontent.com/4d495ae0bbe9396d5b9e37d4a/images/51f3c4d6-c14b-2d9a-aa36-c0ffa03e2b90.jpeg";
+  export let back = "https://mcusercontent.com/4d495ae0bbe9396d5b9e37d4a/images/e71c50be-4998-fcb5-8594-80836602a940.png";
   export let foil = "";
   export let mask = "";
 
